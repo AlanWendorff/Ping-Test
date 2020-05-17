@@ -1,7 +1,7 @@
 # Ping-Test
 Ping Test in real time.
 
-This program works with CMD only that this shows your ping in a more pleasant way.
+This program works with the CMD "ping" command only that this shows your ping in a more pleasant way.
 
 Its show real time ping and the highest ping peak.
 
